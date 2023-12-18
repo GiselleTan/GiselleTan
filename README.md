@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giselletan&label=Profile%20views&color=0e75b6&style=flat" alt="giselletan" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **my personal website**
+
+- 🌱 I’m currently learning **MySQL**
 
 - 📫 How to reach me **giselletan1008@gmail.com**
 
